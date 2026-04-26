@@ -2,7 +2,7 @@
 
 > A Chrome extension that replaces the CO₂ emissions column on Google Flights with the **estimated production year** of the aircraft serving each flight.
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/v/placeholder?label=Chrome%20Web%20Store&color=4285f4)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hgfledgepkmpfgpamfgclkkafddenahh?label=Chrome%20Web%20Store&color=4285f4)](https://chromewebstore.google.com/detail/carbon-dating/hgfledgepkmpfgpamfgclkkafddenahh)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
 
@@ -68,10 +68,10 @@ No network requests are made by the extension. All lookups are in-memory.
 
 ## Installation
 
-### From the Chrome Web Store *(coming soon)*
+### From the Chrome Web Store
 
-1. Visit the extension page on the Chrome Web Store.
-2. Click **Add to Chrome**.
+1. Open **[Carbon Dating on the Chrome Web Store](https://chromewebstore.google.com/detail/carbon-dating/hgfledgepkmpfgpamfgclkkafddenahh)**.
+2. Click **Add to Chrome** (or **Install**).
 
 ### Load unpacked (developer mode)
 
