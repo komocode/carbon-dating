@@ -99,6 +99,7 @@ carbon-dating/
 
 ## Privacy
 
+- Full policy: [PRIVACY.md](PRIVACY.md) (use the GitHub URL of this file for the Chrome Web Store **Privacy policy** field).
 - No data is collected, transmitted, or stored externally.
 - The only storage used is `chrome.storage.sync` for your provider preference (one string, synced across your own Chrome profile).
 - The extension only runs on `https://www.google.com/travel/flights*`.
